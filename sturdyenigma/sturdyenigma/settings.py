@@ -26,6 +26,7 @@ SECRET_KEY = 'uac@#w%=ecq(rb$2t-jpou_%h_%$7&c5zo!k=h7czbs@570=iw'
 DEBUG = True
 
 ALLOWED_HOSTS = [
+    'localhost',
     '35.240.71.114',
 ]
 
